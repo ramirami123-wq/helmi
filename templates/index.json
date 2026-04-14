@@ -127,7 +127,7 @@
         "collection_cdrFMj": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "custom-collection",
             "show_description": true,
             "description": "",
             "number_of_lines_shown": "none",
@@ -144,6 +144,7 @@
             "overlay_opacity": 0,
             "image_ratio": "100",
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "product_card": "",
