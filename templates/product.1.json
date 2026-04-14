@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🍊 Powerful Brightening Boost</span> – Vitamin C capsules help visibly brighten skin, fade dark spots, and even out skin tone.<br><br>\n\n<span style=\"font-weight: bold;\">💊 Fresh Capsule Technology</span> – Liposome-coated capsules keep active ingredients stable and deliver them deep into the skin for maximum effectiveness.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Hydration & Glow Care</span> – A lightweight gel texture infused with Vitamin E and antioxidants leaves skin soft, smooth, and radiant.\n</div>"
           }
         },
         "quantity_selector": {
@@ -271,7 +271,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Bright skin starts from within",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -313,12 +313,12 @@
         "heading_pf9z9Y": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Radiant Skin, Powered by Vitamin C",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Experience a brighter, more even complexion with advanced Vitamin C capsules that target dullness and dark spots while boosting your natural glow.</p><p></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -336,6 +336,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1763644046_phpv2tpsl79jq5vdJPgOcd.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -382,7 +383,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Glow brighter, fade the past",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -424,12 +425,12 @@
         "heading_phxWYV": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Deep Brightening & Hydration Care",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>This lightweight capsule cream delivers intense moisture and antioxidant protection, leaving your skin smooth, refreshed, and visibly more luminous.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -447,6 +448,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1763644046_phpdl0c9bi574fg8siZKKx.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -493,7 +495,7 @@
         "criterion_EAfpEp": {
           "type": "criterion",
           "settings": {
-            "heading": "Criterion label",
+            "heading": "Encapsulated Vitamin C (Fresh & Stable)",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -501,7 +503,15 @@
         "criterion_dfJBhN": {
           "type": "criterion",
           "settings": {
-            "heading": "Criterion label",
+            "heading": "Clinically Tested Brightening Results",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_88gJb8": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Multi-Active Formula (Niacinamide + Vitamin E + Arbutin)",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -509,7 +519,7 @@
         "criterion_w8RWya": {
           "type": "criterion",
           "settings": {
-            "heading": "Criterion label",
+            "heading": "Suitable for Sensitive Skin (Hypoallergenic)",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -518,6 +528,7 @@
       "block_order": [
         "criterion_EAfpEp",
         "criterion_dfJBhN",
+        "criterion_88gJb8",
         "criterion_w8RWya"
       ],
       "name": "t:sections.comparision-table.name",
@@ -528,7 +539,7 @@
         "heading_tag": "h2",
         "heading_alignment": "center",
         "description": "",
-        "product": "",
+        "product": "medicube-deep-vita-c-capsule-cream",
         "alternative_text": "",
         "external_item_labels": "Others",
         "background_color_light": "rgba(0,0,0,0)",
@@ -561,8 +572,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "What does this cream do?",
+            "row_content": "<p>It helps brighten dull skin, fade dark spots, even out skin tone, and provide deep hydration for a healthy glow.</p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -571,8 +582,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is it suitable for sensitive skin?",
+            "row_content": "<p>Yes, the formula is hypoallergenic and gentle, making it suitable for all skin types, including sensitive skin.</p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -581,8 +592,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How often should I use it?",
+            "row_content": "<p>You can use it daily, both morning and night, as part of your skincare routine.</p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
@@ -591,8 +602,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Can I use it with other skincare products?",
+            "row_content": "<p>Yes, it works well with most routines. Apply it after toner and serums, and before sunscreen in the morning.</p>"
           }
         },
         "frequently_asked_question_pKkNLf": {
@@ -601,8 +612,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Will it make my skin oily?",
+            "row_content": "<p>No, it has a lightweight, non-sticky texture that hydrates without leaving a greasy feel.</p>"
           }
         }
       },
