@@ -347,8 +347,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "What does this eye device do?",
-            "row_content": "<p><br/>Our eye care device is designed to help relax the eye area, reduce the appearance of puffiness, and support a refreshed, well-rested look using gentle light and soothing technology.<br/><br/></p>"
+            "heading": "What products does Mokhmal offer?",
+            "row_content": "<p>At Mokhmal, we offer a wide range of beauty products including skincare, makeup, and personal care essentials carefully selected for quality and everyday use.</p>"
           }
         },
         "frequently_asked_question_kjDnG9": {
@@ -357,8 +357,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use daily?",
-            "row_content": "<p>Yes, the device is designed for regular use. However, we recommend following the usage guidelines and consulting a professional if you have any medical concerns.<br/><br/></p>"
+            "heading": "Are your products original and authentic?",
+            "row_content": "<p>Yes! We make sure all our products are 100% authentic and sourced from trusted suppliers.</p>"
           }
         },
         "frequently_asked_question_4dJVT3": {
@@ -367,15 +367,26 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does it take to see results?",
-            "row_content": "<p>Results may vary, but many users notice a more relaxed and refreshed feeling immediately, with visible improvements over consistent use.</p>"
+            "heading": ". How long does delivery take?",
+            "row_content": "<p>Delivery usually takes between 7 business days, depending on your location.</p>"
+          }
+        },
+        "frequently_asked_question_tMMXCU": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "faq",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Do you offer Cash on Delivery (COD)?",
+            "row_content": "<p>Yes, we offer Cash on Delivery for your convenience.</p>"
           }
         }
       },
       "block_order": [
         "frequently_asked_question_cCBAj6",
         "frequently_asked_question_kjDnG9",
-        "frequently_asked_question_4dJVT3"
+        "frequently_asked_question_4dJVT3",
+        "frequently_asked_question_tMMXCU"
       ],
       "name": "t:sections.question_and_answer.presets.name",
       "settings": {
