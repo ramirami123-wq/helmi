@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">💖 24H Glow & Hydration</span> – Delivers long-lasting moisture for plump, dewy, and radiant-looking skin all day.<br><br>\n\n<span style=\"font-weight: bold;\">🧬 Collagen Boosting Care</span> – Freeze-dried hydrolyzed collagen helps improve skin elasticity and supports a firmer appearance.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Brightening & Barrier Support</span> – Niacinamide works to even skin tone while strengthening the skin barrier for healthier skin.\n</div>"
           }
         },
         "quantity_selector": {
@@ -271,7 +271,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Glow that lasts all day",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -313,12 +313,12 @@
         "heading_pf9z9Y": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Deep Hydration, Lasting Glow",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>This lightweight jelly cream delivers intense moisture and leaves your skin looking plump, smooth, and radiant for up to 24 hours.</p><p></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -336,6 +336,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1775054723_phpnelau3b4851c7MPO3ZN.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -382,7 +383,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Bouncy, hydrated, radiant skin.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -424,12 +425,12 @@
         "heading_phxWYV": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Firming & Brightening Care",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Infused with collagen and niacinamide, it helps improve elasticity, even skin tone, and support a healthier skin barrier.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -447,6 +448,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1775054723_phpfk41uj35c0up1hUfUra.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -493,7 +495,7 @@
         "criterion_EAfpEp": {
           "type": "criterion",
           "settings": {
-            "heading": "Criterion label",
+            "heading": "Freeze-Dried Collagen Technology",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -501,7 +503,15 @@
         "criterion_dfJBhN": {
           "type": "criterion",
           "settings": {
-            "heading": "Criterion label",
+            "heading": "24-Hour Hydration",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_BLE6Me": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Brightening with Niacinamide",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -509,7 +519,7 @@
         "criterion_w8RWya": {
           "type": "criterion",
           "settings": {
-            "heading": "Criterion label",
+            "heading": "Lightweight Jelly Texture (Non-Sticky)",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -518,6 +528,7 @@
       "block_order": [
         "criterion_EAfpEp",
         "criterion_dfJBhN",
+        "criterion_BLE6Me",
         "criterion_w8RWya"
       ],
       "name": "t:sections.comparision-table.name",
@@ -528,7 +539,7 @@
         "heading_tag": "h2",
         "heading_alignment": "center",
         "description": "",
-        "product": "",
+        "product": "medicube-jelly-cream-with-collagen",
         "alternative_text": "",
         "external_item_labels": "Others",
         "background_color_light": "rgba(0,0,0,0)",
@@ -561,8 +572,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "What does this cream do?",
+            "row_content": "<p>It hydrates, firms, and brightens the skin while supporting the skin barrier for a healthy glow.</p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -571,8 +582,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is it suitable for all skin types?",
+            "row_content": "<p>Yes, the lightweight formula is suitable for all skin types, including sensitive skin.</p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -581,8 +592,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How often should I use it?",
+            "row_content": "<p>You can use it daily, morning and night, as part of your skincare routine.</p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
@@ -591,8 +602,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Will it feel sticky on the skin?",
+            "row_content": "<p>No, it has a lightweight jelly texture that absorbs quickly without stickiness.</p>"
           }
         },
         "frequently_asked_question_pKkNLf": {
@@ -601,8 +612,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Can I use it with other products?",
+            "row_content": "<p>Yes, apply it after toner and serums, and before sunscreen in the morning.</p>"
           }
         }
       },
