@@ -16,6 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Logo.png",
+            "image_mobile": "shopify://shop_images/Logo.png",
             "image_link": "",
             "open_new_window_image": false,
             "overlay_opacity": 0,
